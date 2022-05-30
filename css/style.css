@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body, html {
+    height: 100%;
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+.bg {
+    font-family: 'Roboto', sans-serif;
+    color: #fefefe;
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("/images/car.jpg"); */
+    height: 95%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.time {
+    text-align: center;
+    font-size: 9rem;
+    font-weight: 600;
+    margin-bottom: -40px;
+    margin-top: -40px;
+    text-shadow: 1px 5px 5px rgb(50, 50, 50);
+}
+
+#userScripture {
+    text-align: center;
+    font-size: 1.3rem;
+    /* letter-spacing: .8px; */
+    font-weight: 400;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-shadow: 1px 1px 3px rgb(50, 50, 50);
+    font-style: italic;
+}
+
+content, h1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px rgba(50, 50, 50, 1);
+    margin-bottom: 40px;
+}
+
+.pexels {
+    position: absolute;
+    right: 20px;
+    color: #fefefe;
+}
+
+.pexels, a {
+    color: #fefefe;
+    text-decoration: none;
+}
