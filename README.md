@@ -1,6 +1,3 @@
-# dailyScriptureAffirmations
-Google chrome extension that displays daily scripture verses whenever users open a new tab
-
 dailyScriptureAffirmations 💡
 Google chrome extension that displays daily scripture verses whenever users open a new tab
 
