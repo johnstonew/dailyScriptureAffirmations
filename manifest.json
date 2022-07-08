@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Daily Scripture Affirmations",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Displays daily scripture verses that Inspire users whenever they open a new tab",
     "icons":
     { "16": "./images/Parkie-16x.png",
